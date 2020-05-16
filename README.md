@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Building a GraphQL Server in Golang with MongoDB  Walkthrough 👋</h1>
+<h1 align="center">Welcome to Building a GraphQL Server in Golang with Gin HTTP  Walkthrough 👋</h1>
 
 <p>
 
@@ -6,7 +6,7 @@
 
 </p>
 
-### 🏠 [Homepage](https://www.youtube.com/watch?v=-x-TnEJGdE0&t=75s)
+### 🏠 [Homepage](https://www.youtube.com/watch?v=n9l7Unz6BtU&list=PL3eAkoh7fypqxiqDq9OQGm3aJO7dZjSBI&index=4)
 
 ## Installation
 
